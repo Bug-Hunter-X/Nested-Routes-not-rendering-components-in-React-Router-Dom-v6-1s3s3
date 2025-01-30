@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when working with nested routes in React Router Dom v6. The problem arises when components within nested routes fail to render correctly.  This example showcases the problem and provides a solution for resolving the issue.
